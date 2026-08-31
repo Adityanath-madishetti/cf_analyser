@@ -93,4 +93,4 @@ problems for me"*, or *"compare me with tourist"* — it'll call the right tool 
 
 ## License
 
-Add a license of your choice if you plan to share this publicly.
+I never understood what this actually is 
